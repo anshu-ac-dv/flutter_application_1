@@ -28,15 +28,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.red.shade200,
         appBar: AppBar(
           backgroundColor: const Color.fromRGBO(193, 56, 54, 1),
-          title: Text('Project'),
-        ),
-        body: Center(
-          child: Container(
-            height: 200,
-            width: 200,
-            color: Colors.amber,
-            child: Center(child: Text('Container')),
-          ),
+          title: Text('First Flutter Project'),
         ),
       ),
     );
