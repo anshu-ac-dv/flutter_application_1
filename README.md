@@ -1,4 +1,4 @@
-# flutter_application_1
+# Flutter_application_1
 
 A new Flutter project for practice and learning.
 
