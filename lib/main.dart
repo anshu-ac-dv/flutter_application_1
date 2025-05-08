@@ -106,7 +106,7 @@ class NewApp extends StatelessWidget {
           backgroundColor: Colors.amber.shade900,
           title: Text(
             'This is Flutter Project',
-            style: TextStyle(fontFamily: 'Pacifico', fontSize: 50),
+            style: TextStyle(fontFamily: 'Pacifico', fontSize: 30),
           ),
         ),
         body: SafeArea(
