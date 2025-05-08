@@ -12,7 +12,7 @@ This project is a starting point for a Flutter application.
 Download Flutter App in our computer and create src folder in C Drive and set environment variable path for bin drive and we can start to create the flutter project by using any editor like Android studio and VS Code.
 
 ## How to use MaterialApp in flutter project?
-'''
+(((
 return MaterialApp(
       home: Scaffold(
         backgroundColor: Colors.red.shade200,
@@ -23,8 +23,8 @@ return MaterialApp(
         body: Center(child: Image(image: AssetImage('assets/Anshu.jpg'))),
       ),
     );
-    
-'''
+)))
+
 
 ## What is scaffold ?
 '''
