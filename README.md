@@ -28,7 +28,7 @@ return MaterialApp(
 
 
 ## What is scaffold ?
-'''
+```
 home: Scaffold(
         backgroundColor: Colors.red.shade200,
         appBar: AppBar(
@@ -37,21 +37,20 @@ home: Scaffold(
         ),
         body: Center(child: Image(image: AssetImage('assets/Anshu.jpg'))),
       ),
-
-'''
+```
 ## How to add appBar?
-'''
+```
 appBar: AppBar(
           backgroundColor: const Color.fromRGBO(193, 56, 54, 1),
           title: Text('Project'),
         ),
       
-'''
+```
 
 ## How to add image in our flutter project?
-'''
+```
 body: Center(child: Image(image: AssetImage('assets/Anshu.jpg'))),
-'''
+```
 
 ## How to use Statelesswidget?
 
